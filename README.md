@@ -1,6 +1,6 @@
 # capybara
 
-A new Flutter application.
+A new Flutter application. Version 1000.
 
 ## Getting Started
 
